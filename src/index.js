@@ -18,7 +18,7 @@ const App = () => {
       <CommentDetail author="John" timeAgo="Today at 4:50" critic="nice post" />
       <CommentDetail
         author="Jane"
-        timeAgo="Today at 3:28"
+        timeAgo="Today at 3:27"
         critic="totally agree"
       />
     </div>
