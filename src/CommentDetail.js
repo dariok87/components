@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const CommentDetail = (props) => {
   return (
@@ -19,4 +19,4 @@ const CommentDetail = (props) => {
   )
 }
 
-export default CommentDetail
+export default CommentDetail;
